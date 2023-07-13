@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tarea18.app-mergeDebugResources-18:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\3da68b51bc04863f9e1db4defd750f91\\transformed\\leanback-1.0.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,178",
+                        "endColumns": "77,44,46",
+                        "endOffsets": "128,173,220"
+                    },
+                    "to": {
+                        "startLines": "2,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,410,455",
+                        "endColumns": "77,44,46",
+                        "endOffsets": "128,450,497"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\6a2160da2d13d8e8cf1a8ca20725025c\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "133,269",
+                        "endColumns": "135,140",
+                        "endOffsets": "264,405"
+                    }
+                }
+            ]
+        }
+    ]
+}

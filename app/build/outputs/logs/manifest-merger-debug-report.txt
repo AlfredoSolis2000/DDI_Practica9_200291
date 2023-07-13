@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\alfre\.gradle\caches\transforms-3\6a2160da2d13d8e8cf1a8ca20725025c\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\3451ad576643d3285f659ca9af4ee726\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\3da68b51bc04863f9e1db4defd750f91\transformed\leanback-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\4c725274a384f894d0083fd6766ee793\transformed\glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1c8a70deb05a3fb2cfe30d0a0ec617b2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1142d7161372292cda79d5d09ff27e8a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\29446fabd665748a5af221252f896633\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\14b10ddec3dbacccd6fd00c3d95fbe14\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\alfre\.gradle\caches\transforms-3\1660d7efa843380a957cabf04e99aa0c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\2963017d25624edbbcd8b6aa646b6671\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\25774fa9ff966e7ec62793663c42bd33\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\9fe20bedd86bb0804b8cdfe024594fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0f3aad8dfdfd37c6b3d00de523b6105a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\e3f939c7d2b93e4dbf31ffd1d275baed\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\375341fd36801113aa9bdaf7514a5dcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\ca27e199bae5c6aa69d3405702e074a5\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\a45cd0fd3c23ee2a0edde75387d12aa3\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4fe1493fae80fe855bb5887063c5eb11\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\394cc2b45bd228b9385cb93654c38b0e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a1f5b30d605b1c327936ea818df0cbc9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\dc0cbda596550c0fd2b20268ae780ce1\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\0ecc782b8ab6cd4dc6a5174ead079685\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\45c466ac538f632ba102702eac080b06\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\b10d54d074ed609cdfac32f4f644dac8\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\383abdfa96af77941af066d0316e343e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\365eac9fe2e712a539ccc63da1dc6b73\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a59f6ed41457779107a4f47c6971b26f\transformed\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\19d5863788639d09335e5ca4df469bae\transformed\gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\48f6558f79c090454495aba49b822efa\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\aa5532d41a32f1b4044114aae6c35e82\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\alfre\.gradle\caches\transforms-3\a3368a36507cded800afa4cd9d87635b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8781c8b628521d17aa64027b0c3ff482\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\ee08863ea05522c8763dfeb6dc2bd7e9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\47b92974fbb9d4534cc9ab21cca58ccd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\2a076e316ad8d8479a54cfdbb91b5211\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\d033cebde97c76ea3306db379909e6aa\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4c2a4ef69750f36c48c2dcca6acc686e\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\ddde9129d109374aa6afbb4c4bd16737\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\39fdbfaf9e7269d417240107c184b60d\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\aa401e10f7372d0da69ea3e4b16c01b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\934e6195222fbf8c900a21d349f92e9d\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:8:9-52
+uses-feature#android.software.leanback
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:11:9-49
+application
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:14:5-35:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\alfre\.gradle\caches\transforms-3\6a2160da2d13d8e8cf1a8ca20725025c\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\alfre\.gradle\caches\transforms-3\6a2160da2d13d8e8cf1a8ca20725025c\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\4c725274a384f894d0083fd6766ee793\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\4c725274a384f894d0083fd6766ee793\transformed\glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\alfre\.gradle\caches\transforms-3\1660d7efa843380a957cabf04e99aa0c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\alfre\.gradle\caches\transforms-3\1660d7efa843380a957cabf04e99aa0c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\19d5863788639d09335e5ca4df469bae\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\19d5863788639d09335e5ca4df469bae\transformed\gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:19:9-47
+activity#com.example.tarea18.MainActivity
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:20:9-33:20
+	android:screenOrientation
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:27:13-50
+	android:label
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:25:13-45
+	android:exported
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:23:13-36
+	android:icon
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:24:13-59
+	android:banner
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:22:13-61
+	android:logo
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:26:13-59
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:31:17-86
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:31:27-83
+uses-sdk
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\alfre\.gradle\caches\transforms-3\6a2160da2d13d8e8cf1a8ca20725025c\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\alfre\.gradle\caches\transforms-3\6a2160da2d13d8e8cf1a8ca20725025c\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\3451ad576643d3285f659ca9af4ee726\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\3451ad576643d3285f659ca9af4ee726\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\3da68b51bc04863f9e1db4defd750f91\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.leanback:leanback:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\3da68b51bc04863f9e1db4defd750f91\transformed\leanback-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\4c725274a384f894d0083fd6766ee793\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\4c725274a384f894d0083fd6766ee793\transformed\glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1c8a70deb05a3fb2cfe30d0a0ec617b2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1c8a70deb05a3fb2cfe30d0a0ec617b2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1142d7161372292cda79d5d09ff27e8a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1142d7161372292cda79d5d09ff27e8a\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\29446fabd665748a5af221252f896633\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\29446fabd665748a5af221252f896633\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\14b10ddec3dbacccd6fd00c3d95fbe14\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\14b10ddec3dbacccd6fd00c3d95fbe14\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\alfre\.gradle\caches\transforms-3\1660d7efa843380a957cabf04e99aa0c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\alfre\.gradle\caches\transforms-3\1660d7efa843380a957cabf04e99aa0c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\2963017d25624edbbcd8b6aa646b6671\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\2963017d25624edbbcd8b6aa646b6671\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\25774fa9ff966e7ec62793663c42bd33\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\25774fa9ff966e7ec62793663c42bd33\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\9fe20bedd86bb0804b8cdfe024594fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\9fe20bedd86bb0804b8cdfe024594fb1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0f3aad8dfdfd37c6b3d00de523b6105a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0f3aad8dfdfd37c6b3d00de523b6105a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\e3f939c7d2b93e4dbf31ffd1d275baed\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\e3f939c7d2b93e4dbf31ffd1d275baed\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\375341fd36801113aa9bdaf7514a5dcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\375341fd36801113aa9bdaf7514a5dcb\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\ca27e199bae5c6aa69d3405702e074a5\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\ca27e199bae5c6aa69d3405702e074a5\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\a45cd0fd3c23ee2a0edde75387d12aa3\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\a45cd0fd3c23ee2a0edde75387d12aa3\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4fe1493fae80fe855bb5887063c5eb11\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4fe1493fae80fe855bb5887063c5eb11\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\394cc2b45bd228b9385cb93654c38b0e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\394cc2b45bd228b9385cb93654c38b0e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a1f5b30d605b1c327936ea818df0cbc9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a1f5b30d605b1c327936ea818df0cbc9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\dc0cbda596550c0fd2b20268ae780ce1\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\dc0cbda596550c0fd2b20268ae780ce1\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\0ecc782b8ab6cd4dc6a5174ead079685\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\0ecc782b8ab6cd4dc6a5174ead079685\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\45c466ac538f632ba102702eac080b06\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\45c466ac538f632ba102702eac080b06\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\b10d54d074ed609cdfac32f4f644dac8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\b10d54d074ed609cdfac32f4f644dac8\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\383abdfa96af77941af066d0316e343e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\383abdfa96af77941af066d0316e343e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\365eac9fe2e712a539ccc63da1dc6b73\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\365eac9fe2e712a539ccc63da1dc6b73\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a59f6ed41457779107a4f47c6971b26f\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a59f6ed41457779107a4f47c6971b26f\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\19d5863788639d09335e5ca4df469bae\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\alfre\.gradle\caches\transforms-3\19d5863788639d09335e5ca4df469bae\transformed\gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\48f6558f79c090454495aba49b822efa\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\48f6558f79c090454495aba49b822efa\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\aa5532d41a32f1b4044114aae6c35e82\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\aa5532d41a32f1b4044114aae6c35e82\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\5bd86bf14a3bbb664d10e72f65be9e52\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\alfre\.gradle\caches\transforms-3\a3368a36507cded800afa4cd9d87635b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\alfre\.gradle\caches\transforms-3\a3368a36507cded800afa4cd9d87635b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8781c8b628521d17aa64027b0c3ff482\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8781c8b628521d17aa64027b0c3ff482\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\ee08863ea05522c8763dfeb6dc2bd7e9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\ee08863ea05522c8763dfeb6dc2bd7e9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\47b92974fbb9d4534cc9ab21cca58ccd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\47b92974fbb9d4534cc9ab21cca58ccd\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\2a076e316ad8d8479a54cfdbb91b5211\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\2a076e316ad8d8479a54cfdbb91b5211\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\d033cebde97c76ea3306db379909e6aa\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\d033cebde97c76ea3306db379909e6aa\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4c2a4ef69750f36c48c2dcca6acc686e\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4c2a4ef69750f36c48c2dcca6acc686e\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\ddde9129d109374aa6afbb4c4bd16737\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\ddde9129d109374aa6afbb4c4bd16737\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\39fdbfaf9e7269d417240107c184b60d\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\39fdbfaf9e7269d417240107c184b60d\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\aa401e10f7372d0da69ea3e4b16c01b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\aa401e10f7372d0da69ea3e4b16c01b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\934e6195222fbf8c900a21d349f92e9d\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\934e6195222fbf8c900a21d349f92e9d\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml

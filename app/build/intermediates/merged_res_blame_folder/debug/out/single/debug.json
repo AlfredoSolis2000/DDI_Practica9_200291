@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.example.tarea18.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.tarea18.app-main-22:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tarea18.app-main-22:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/drawable_movie.png.flat",
+        "source": "com.example.tarea18.app-main-22:/drawable/movie.png"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/drawable_lana2.png.flat",
+        "source": "com.example.tarea18.app-main-22:/drawable/lana2.png"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/drawable_lana1.jpg.flat",
+        "source": "com.example.tarea18.app-main-22:/drawable/lana1.jpg"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.tarea18.app-main-22:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tarea18.app-main-22:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/layout_fragment1.xml.flat",
+        "source": "com.example.tarea18.app-main-22:/layout/fragment1.xml"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/layout_fragment_3.xml.flat",
+        "source": "com.example.tarea18.app-main-22:/layout/fragment_3.xml"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.tarea18.app-main-22:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/drawable_default_background.xml.flat",
+        "source": "com.example.tarea18.app-main-22:/drawable/default_background.xml"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/drawable_app_icon_your_company.png.flat",
+        "source": "com.example.tarea18.app-main-22:/drawable/app_icon_your_company.png"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/drawable_lana3.jpeg.flat",
+        "source": "com.example.tarea18.app-main-22:/drawable/lana3.jpeg"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/drawable_si.jpg.flat",
+        "source": "com.example.tarea18.app-main-22:/drawable/si.jpg"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/layout_fragment_2.xml.flat",
+        "source": "com.example.tarea18.app-main-22:/layout/fragment_2.xml"
+    },
+    {
+        "merged": "com.example.tarea18.app-merged_res-20:/layout_activity_details.xml.flat",
+        "source": "com.example.tarea18.app-main-22:/layout/activity_details.xml"
+    }
+]

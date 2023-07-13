@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.tarea18.app-mergeDebugResources-18:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\2963017d25624edbbcd8b6aa646b6671\\transformed\\appcompat-1.2.0\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "161,236,323,593",
+                        "endLines": "4,5,10,15",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "231,318,588,870"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\3da68b51bc04863f9e1db4defd750f91\\transformed\\leanback-1.0.0\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,53",
+                        "endOffsets": "102,156"
+                    }
+                }
+            ]
+        }
+    ]
+}

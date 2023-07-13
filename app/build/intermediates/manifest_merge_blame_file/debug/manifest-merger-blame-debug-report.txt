@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tarea18"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <uses-feature
+13-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:7:5-9:36
+14        android:name="android.hardware.touchscreen"
+14-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:8:9-52
+15        android:required="false" />
+15-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:9:9-33
+16    <uses-feature
+16-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:10:5-12:35
+17        android:name="android.software.leanback"
+17-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:11:9-49
+18        android:required="true" />
+18-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:12:9-32
+19
+20    <application
+20-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:14:5-35:19
+21        android:allowBackup="true"
+21-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:15:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:16:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:17:9-41
+26        android:supportsRtl="true"
+26-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:18:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.HolaMundo" >
+28-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:19:9-47
+29        <activity
+29-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:20:9-33:20
+30            android:name="com.example.tarea18.MainActivity"
+30-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:21:13-41
+31            android:banner="@drawable/app_icon_your_company"
+31-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:22:13-61
+32            android:exported="true"
+32-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:23:13-36
+33            android:icon="@drawable/app_icon_your_company"
+33-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:24:13-59
+34            android:label="@string/app_name"
+34-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:25:13-45
+35            android:logo="@drawable/app_icon_your_company"
+35-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:26:13-59
+36            android:screenOrientation="landscape" >
+36-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:27:13-50
+37            <intent-filter>
+37-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:28:13-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:29:17-69
+38-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:29:25-66
+39
+40                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+40-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:31:17-86
+40-->C:\Users\alfre\OneDrive\Documentos\Android\tarea18\app\src\main\AndroidManifest.xml:31:27-83
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>
